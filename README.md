@@ -16,19 +16,6 @@ Metadata
 - System, basic, detailed, video and grid views are supported
 - Support for every 351ELEC System an Automatic Game Collection
 
-## Configuration Options
-
-- Background Art: Toggle background art for system view under "UI Settings" > "Theme Configuration" > "Background Art" (video: https://youtu.be/YgpRxBTLgCU)
-  - Options:
-  - [Off] Don't display background art
-  - [Centered] Display centered background art
-  - [Full Screen] Display full screen background art
-- Metadata: Toggle metadata display for games view under "UI Settings" > "Theme Configuration" > "Metadata" (video: https://youtu.be/tCDM-nLCjQI)
-  - Options:
-  - [Off] Don't display game metadata
-  - [On] Display the following game metadata - Title, Description, Rating, Release Date
-
-
 ## Acknowledgments
 - 351ELEC - https://github.com/351ELEC/351ELEC
 - Nunito fonts by Vernon Adams
